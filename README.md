@@ -1,4 +1,4 @@
-# Tất cả các phiên bản OS cho dòng Wifi Aruba hãng HPE , HP , Lưu ý mesh Cần phiên bản phải giống nhau kể cả sai 1 số đuôi cũng không mesh được
+### Trang Tải Về Phần Mềm Hệ Thống Cho Hãng Aruba , Hỗ Trợ Ap Và IAP . 
 
 [Tất Cả Phiên Bản](https://1024terabox.com/s/1uw67w4LVuz6XRz1h5iE0OQ)
 

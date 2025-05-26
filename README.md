@@ -1,11 +1,12 @@
 ### Trang Tải Về Phần Mềm Hệ Thống Cho Hãng Aruba , Hỗ Trợ Ap Và IAP . 
 
-### [Tất Cả Phiên Bản](https://1024terabox.com/s/1uw67w4LVuz6XRz1h5iE0OQ)
+### [ Bấm Vào Đây Để Xem Tất Cả Phiên Bản Và Tải Về](https://1024terabox.com/s/1uw67w4LVuz6XRz1h5iE0OQ)
 
 
+  
    Khi các AP Aruba không thể tạo mạng Mesh (mesh) với nhau, có thể có một số nguyên nhân. Dưới đây là các vấn đề phổ biến và cách khắc phục:
 
-1. Vấn đề về tương thích và cấu hình cơ bản:
+Vấn đề về tương thích và cấu hình cơ bản:
 
 Firmware không đồng nhất hoặc lỗi thời:
 Giải pháp: Đảm bảo tất cả các AP đều đang chạy phiên bản firmware mới nhất và đồng nhất. Đôi khi, lỗi firmware có thể ngăn chặn khả năng Mesh.
